@@ -4,27 +4,17 @@
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
+  padding-bottom: 15%;
+  padding-top: 10%;
 }
-p {
-  text-align: center;
-  font-family:
-}
-span {
-  text-align: center;
-}
-.container {
+.about {
+  background-color: white;
   text-align: center;
 }
-h1 {
+.services {
+  background-image: url("../img/s_image.jpg");
   text-align: center;
-}
-h2 {
-  text-align: center;
-}
-h3 {
-  text-align: center;
-}
-.logo {
-  float: center;
-  
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: white;
 }
