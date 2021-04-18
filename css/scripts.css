@@ -18,3 +18,17 @@
   padding-bottom: 10%;
   color: white;
 }
+.heading {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+.contact {
+  text-align: center;
+  background-image: url("../img/c_image.jpg");
+}
+input[type=text],input[type=email],#comment{
+  background: transparent;
+  color:white;
+}
