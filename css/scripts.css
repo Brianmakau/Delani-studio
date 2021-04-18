@@ -1,3 +1,10 @@
+.landing {
+  background-image: url("../img/h_img.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
 p {
   text-align: center;
   font-family:
@@ -17,10 +24,6 @@ h2 {
 h3 {
   text-align: center;
 }
-body {
-  background: url("img/h_img.jpg") no-repeat;
-  background-size: cover;
-} 
 .logo {
   float: center;
   
