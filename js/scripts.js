@@ -82,3 +82,10 @@ $(document).ready(function(){
     $("#overlay8").hide();
   });
 });
+
+
+$("#content").submit(function (e) {
+  var user = document.getElementById("name").value;
+  alert(user + "your message has been recieved successfully and thanks for keeping in touch");
+  });
+});

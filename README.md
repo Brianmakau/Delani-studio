@@ -5,7 +5,7 @@ Basic Git knowledge, including an installed version of Git.
 ##### Technologies Used
 - HTML, Jquery & CSS
 #### Instructions
-you open 'index.html' using any browser to access the page.
+you open 'index.html'using any browser to access the page.
 ## Development
 Want to contribute? Great!
 To fix a bug or enhance an existing module, follow these steps:

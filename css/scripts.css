@@ -29,7 +29,16 @@ h5 {
   text-align: center;
   background-image: url("../img/c_image.jpg");
 }
+input {
+  background-color: transparent;
+  
+}
+.textarea {
+  background-color: transparent;
+}
 footer {
   text-align: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Italianno', cursive;
+  font-style: italic;
+  font-size: 20px;
 }
