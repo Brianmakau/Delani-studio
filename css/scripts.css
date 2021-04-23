@@ -20,7 +20,23 @@
 }
 .heading {
   text-align: center;
-  font-family: ;
+}
+#portfolio .col-md-3 {
+  position: relative;
+}
+#portfolio .col-md-3 p {
+  text-align: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background: rgba(0,0,0,0.5);
+  padding-top: 30%;
+  color: white;
+  font-size: 30px;
+  font-family: 'Italianno', cursive;
 }
 h5 {
   text-align: center;
@@ -28,17 +44,24 @@ h5 {
 .contact {
   text-align: center;
   background-image: url("../img/c_image.jpg");
+  padding:30px;
 }
 input {
   background-color: transparent;
-  
 }
 .textarea {
   background-color: transparent;
+  margin: 20px;
+}
+.social {
+  text-align: center;
+  padding-top: 20px;
 }
 footer {
   text-align: center;
   font-family: 'Italianno', cursive;
   font-style: italic;
   font-size: 20px;
+  background: white;
+  margin-top: 20px;
 }

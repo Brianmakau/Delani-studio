@@ -84,8 +84,8 @@ $(document).ready(function(){
 });
 
 
-$("#content").submit(function (e) {
+$(".content").submit(function (e) {
+  e.preventDefault();
   var user = document.getElementById("name").value;
   alert(user + "your message has been recieved successfully and thanks for keeping in touch");
-  });
 });
